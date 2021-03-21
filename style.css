@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Della+Respira&display=swap');
+
 body {
     background-image: url(assets/background.jpg);
     color: white;
     font-family: 'open sans', sans-serif;
     font-size: 15px;
     letter-spacing: 2px;
-
+    font-family: 'Della Respira', serif;
 }
 
 img {
